@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" role="img" aria-label="Whiplash illustrated poster">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241a16"/><stop offset="1" stop-color="#080b12"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d96545" stop-opacity=".72"/><stop offset="1" stop-color="#d96545" stop-opacity="0"/></radialGradient>
+    <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#fff" opacity=".16"/></pattern>
+    <style>.title{font:700 27px Georgia,serif;letter-spacing:1.1px;fill:#fff}.meta{font:600 10px Arial,sans-serif;letter-spacing:4px;fill:#d96545}</style>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/><circle cx="205" cy="255" r="205" fill="url(#glow)"/>
+  <g transform="translate(200 260) rotate(77)" fill="none" stroke="#d96545" stroke-opacity=".65">
+    <circle r="108" stroke-width="1.5"/><circle r="78" stroke-width="1"/><circle r="48" stroke-width="2"/>
+    <path d="M-150 0H150M0-150V150M-106-106L106 106M106-106L-106 106" stroke-width="1"/>
+    <path d="M-130 70Q0-150 130 70T-130 70Z" stroke-width="2"/>
+  </g>
+  <text x="200" y="286" text-anchor="middle" fill="#fff" fill-opacity=".9" font-family="Georgia,serif" font-size="100">♫</text>
+  <path d="M30 386H370" stroke="#d96545" stroke-opacity=".7"/>
+  <text x="34" y="418" class="meta">I RATED  ·  CINEMA</text><text x="34" y="440" class="title">Whiplash</text>
+  <rect width="400" height="600" fill="url(#grain)"/>
+  <rect x="10" y="10" width="380" height="580" fill="none" stroke="#fff" stroke-opacity=".22"/>
+</svg>

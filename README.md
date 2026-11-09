@@ -1,6 +1,6 @@
-# Movie App
+# I Rated
 
-A full-stack movie application built with React, TypeScript, and Vite.
+I Rated, ileride kullanıcıların film ve müzik değerlendirmelerini paylaşabileceği sosyal bir platform olmayı hedefliyor. Proje geliştirme aşamasındadır; planlanan özellikler henüz tamamlanmış değildir.
 
 ## Tech Stack
 
